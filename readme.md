@@ -1,5 +1,15 @@
 # Fork note
 
+This fork is made so I don't need to clone the repo to run the script.
+
+You can do the same with 
+```bash
+uvx git+https://github.com/notPlancha/auto-index [args]
+# or
+uv tool install git+https://github.com/notPlancha/auto-index 
+auto-index [args]
+```
+
 # Auto-Index
 
 Recursively generate a directory listing for every directory.
