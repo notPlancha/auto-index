@@ -10,3 +10,6 @@ dependencies = [
 
 [project.scripts]
 auto-index = "auto_index:main"
+
+[tool.setuptools]
+py-modules = ["auto_index"]
