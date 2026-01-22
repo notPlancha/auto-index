@@ -9,4 +9,4 @@ dependencies = [
 ]
 
 [project.scripts]
-auto-index = "auto-index:main"
+auto-index = "auto_index:main"
